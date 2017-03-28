@@ -1,0 +1,14 @@
+Package: AnovaTools
+Type: Package
+Title: Taules ANOVA amb factors aleatoris
+Version: 0.7.3
+Date: 2013-11-07
+Author: Jordi Ocaña
+Maintainer: Francesc Carmona <fcarmona@ub.edu>
+Description: Aquest paquet proporciona algunes funcions que calculen les 
+    taules ANOVA correctes, a partir de les taules per factors fixos, 
+    en el cas que hi hagin factors aleatoris tant creuats com 
+    jerarquitzats i amb 2 o 3 factors.
+License: GPL (>= 2)
+Encoding: UTF-8
+Packaged: 2014-10-21 11:22:08 UTC; francesc
